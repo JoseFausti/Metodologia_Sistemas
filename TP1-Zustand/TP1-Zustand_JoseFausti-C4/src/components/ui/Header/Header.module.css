@@ -1,0 +1,16 @@
+.containerHeader {
+    width: 100vw;
+    height: 8vh;
+    background-color: #cccccca8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+.containerTitleHeader{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #303030;
+    text-transform: uppercase;
+}
